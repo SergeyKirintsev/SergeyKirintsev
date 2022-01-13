@@ -10,7 +10,6 @@
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=555)
 ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
-![Vue](https://img.shields.io/badge/-React-eee?style=flat-square&logo=vue&logoColor=0088cc)
 <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb)
